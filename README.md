@@ -101,3 +101,5 @@ measure performance, locate bottlenecks and recommend improvements.
 Learning and applying Excel, SQL, Power BI, Tableau and Python through
 real-world projects.
 [LinkedIn](https://www.linkedin.com/in/himanshi-saxena-b2960a20b)
+
+[📄 Read the full business case study](case-study/business_case_study.md)
