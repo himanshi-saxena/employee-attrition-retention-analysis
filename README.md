@@ -26,8 +26,8 @@ every figure is traceable to a query.
 6. Which open samples are most likely to breach next?
 
 ## 📂 Dataset
-- **Data type:** Anonymised / simulated laboratory data. No client names or
-  confidential details are used.
+- **Data type:** Simulated laboratory data generated using Claude AI. No company
+  or client data is used.
 - **Records:** 5,916 completed samples, 62 open samples
 - **Period:** [write the exact period, for example Jan 2025 to Sep 2026]
 
